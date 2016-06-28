@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="xamoomsdk-2.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.xamoom.android/xamoomsdk/2.1.0/jars/libs/androidsvg-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.xamoom.android/xamoomsdk/2.1.0/jars/libs/YouTubeAndroidPlayerApi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.xamoom.android/xamoomsdk/2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.xamoom.android/xamoomsdk/2.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xamoom.android/xamoomsdk/2.1.0/8f0afc6507cfe9453995894ba5a01c3c76ce1768/xamoomsdk-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
